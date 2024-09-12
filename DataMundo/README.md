@@ -20,6 +20,7 @@
 # Trilha do Curso
 
 - Excel para Análise de Dados
+
 - Power BI for Business 2.0
   - Power BI | Basics
   - Case | Auto Solutions
