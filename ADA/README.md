@@ -8,10 +8,11 @@
 
 ## Certificados
 
+[Trilha Digital | Coders 24 | Engenharia de dados - junho de 2024 - 16 Hs](https://github.com/Lelebertoldi/certificados/blob/main/ADA/Trilha%20Digital%20-%20Coders%2024%20-%20Engenharia%20de%20dados/Certificado%20-%20Trilha%20Digital%20Coders%2024%20Engenharia%20de%20dados.pdf)
 
 ## Validador de Certificado
 
-- Trilha Digital | Coders 24 | Engenharia de dados - junho de 2024 [Validador do Certificado - 16 Hs](https://ada.tech/certificado?code=3029d134-a01f-a8c5-c76d-2a546a6b1bab/)
+- Trilha Digital | Coders 24 | Engenharia de dados [Validador do Certificado - 16 Hs](https://ada.tech/certificado?code=3029d134-a01f-a8c5-c76d-2a546a6b1bab/)
 
 
 ## Trilha do Curso
